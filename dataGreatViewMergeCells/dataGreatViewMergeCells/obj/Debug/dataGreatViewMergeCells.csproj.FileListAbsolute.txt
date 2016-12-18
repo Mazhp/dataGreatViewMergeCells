@@ -1,0 +1,2 @@
+G:\学习\DataGridView单元格合并\WindowsApplication15\WindowsApplication15\obj\Debug\WindowsApplication15.exe
+G:\学习\DataGridView单元格合并\WindowsApplication15\WindowsApplication15\obj\Debug\WindowsApplication15.pdb
